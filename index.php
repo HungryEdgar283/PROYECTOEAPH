@@ -68,6 +68,8 @@ if (!empty($_SESSION['activa'])) {
             <div class="col" style="background-color: rgb(183,213,178);">
                 <div class="row">
                     <h1>AUTENTIFICACIÓN</h1>
+                    <h1>21240002</h1>
+                    <h1>7A</h1>
                     
                     
                 </div>
